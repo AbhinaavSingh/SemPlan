@@ -1,0 +1,27 @@
+
+
+Paper View
+3 Customer Segments (behavioral segmentation): 
+
+This segmentation is made on the basis of level of involvement with the solution.
+
+1. Interaction based segmentation
+
+Variable: Interaction level with software
+
+Values:Academic Program Directors(less), Academic Program Managers (high)
+
+ 
+
+2. Category based segment
+
+Variable: User category
+
+Values: Student Services Representative (Indirect. They plan curriculum for Academic Program Directors), Academic Program Directors( Direct. They plan curriculum for themselves)
+
+
+3. Workload level segmentation
+
+Variable: User workload
+
+Values: Program Directors of small programs (<8-10 courses to plan per semester), Program Directors of large programs (>15-20 courses to plan per semester).
