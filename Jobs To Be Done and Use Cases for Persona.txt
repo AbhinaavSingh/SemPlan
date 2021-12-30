@@ -1,0 +1,33 @@
+Jobs to be done by Program Administrators:
+
+ 
+
+JTBD 1. Ensure student learning
+
+     Use cases for this:
+
+      a. Ensure student learning for on campus students: On campus students need to be taught in person, and there are various logistics involved. It might also incur costs that need to be addressed.
+
+      b. Ensure student learning for online students: Due to covid and even otherwise, there are multiple courses running online. There are different challenges to address appropriate learning in these cases.
+
+      c. Ensure learning outside of classes: How to engage students with learning outside of classes, What programs/ events to conduct. 
+
+JTBD 2. Hire teaching talent
+
+     Use cases for this:
+
+      a. Hire professors during a shortage of professors in the industry
+
+      b.  Hire professors for online courses
+
+      c. Hire professors with industry experience
+
+JTBD 3. Secure funding for program
+
+     Use cases for this:
+
+      a. Secure funds for paying staff
+
+     b. Secure funds to arrange housing
+
+     c. Secure funds for outside class experiences
