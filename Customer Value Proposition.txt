@@ -1,0 +1,11 @@
+1. Software license/ subscription fees
+
+2. Maintenance of application
+
+3. Labor (Setup time for different departments, IT help desk/ Support)
+
+4. Application training (Time taken to train Program Administrators and instructors)
+
+5. Server costs (Cost to deploy and keep the application up and running)
+
+6. Integration costs (Cost of integrating the tool into the academic system)
