@@ -1,0 +1,25 @@
+10 Critical requirements:
+
+1. As a Program Administrator/instructor, I want a visual representation of course scheduling data so that I can quickly mentally process the course scheduling information.
+
+2. As a Program Administrator, I want a semester curriculum planner that can help me plan my semester in realtime with all other stakeholders like other Program Administrators and instructors so that the courses can get planned quickly.
+
+3. As a Program Administrator, I want to be notified whenever an instructor needs a resource from me in realtime, so that the course can go on unhindered.
+
+4. As an instructor,  I want a system that helps me request my Program Administrator for specific course related resources (like HBR articles) at anytime during the semester so that I can teach effectively. 
+
+5. As an instructor, I want a system in which I don't have to explicitly request for resources that are needed every semester unless there's a change in my requirements, so that I can use that saved time for other productive activities.
+
+6. As an instructor, I want a schedule that is already prepared for me unless there is a change in timings/ details from previous semesters so that I can use that saved time for other productive activities.
+
+7. The system should be scalable so that as the university becomes bigger/ other departments get added, the system can handle the added user load.
+
+8. The system should be customizable so that different departments with different needs can use it to plan their semester course curriculum.
+
+9. The system should be hosted on the web, so that it can be accessible from anywhere.
+
+10. As an instructor, I want more transparency about which time slots are being allotted to which instructors/ courses so that I feel more connected to the university and how it works.
+
+11. As a Program Administrator, I want a system that helps me convey messages to the instructors in my department during the semester so that I can notify them of important announcements/ requests in realtime.
+
+ 
