@@ -1,0 +1,16 @@
+Options that Academic Program Directors might consider to help solve the problem we have selected:
+
+1. Maintaining a common spreadsheet like Google sheets
+
+It is a direct competitor.
+It is a product.
+
+2. Delegating the task to another entity
+
+It is an indirect competitor.
+It is a product category.
+
+3. CAS
+
+It is a direct competitor. 
+It is a product.
