@@ -1,0 +1,45 @@
+Considering that my team will use a non-uniform, segmented pricing strategy to price your team's solution idea, following are my ideas for each point:
+
+ 
+
+1. price metric(s) : 
+
+a. Number of Program Administrators
+
+b. No. of departments
+
+c. No. of courses to be scheduled
+
+d. No. of instructors
+
+ 
+
+2. pricing structure:
+
+a. Which items will be charged to the customer? 
+
+    - Hosting the server
+
+    - Solution Integration fee
+
+    - Application training fee (Content/ resources required to train Program Administrators and instructors)
+
+b, How often will the price be charged?
+
+    - Monthly (Based on the courses/ departments/ Program Administrators involved each month)
+
+c. When will the payments be required? 
+
+     - Yearly (Will be a hassle for the university/ department to make frequent payments)
+
+d. Who will pay for the product?
+
+    - Will be paid for by the department or university.
+
+ 
+
+3. reference price:
+
+a. $10/user (monday.com, a productivity and efficiency tool used by organizations charges $10 per user for its standard package. Since we aim to achieve the same with our tool, this will be our reference solution)
+
+URL for monday.com pricing : https://monday.com/pricing?marketing_source=adwordssearch&marketing_campaign=us-s-comp_trello-p-desk-Monday&aw_keyword=trello%20pricing&aw_match_type=p&cluster=&subcluster=&gclid=CjwKCAiAv_KMBhAzEiwAs-rX1H_czZRF554KF_KqGY8YTRUWuJYuBrsP6pggapjeZtY3KgyvcKZu-xoC26kQAvD_BwE
